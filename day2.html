@@ -126,8 +126,17 @@
     <textarea rows="6" cols= "45" id="blog_post" name="blog_post"></textarea>
 
     <br><br>
+    <label for="list_of_fruit">Fruits:</label>
+    <select name="fruit" id="list_of_fruit">
+        <optgroup label="favorites">
+        <option value="banana">Banana</option>
+        <option value="apple">Apple</option>
+    </optgroup>
+    </select>
+
+    <br><br>
     <label for="multiple_list_of_fruit">Multiple Fruits:</label>
-    <select name="fruit" id="multiple_list_of_fruit" multiple>
+    <select style="height: 150px;" name="fruit" id="multiple_list_of_fruit" multiple>
         <optgroup label="favorites">
         <option value="banana">Banana</option>
         <option value="apple">Apple</option>
