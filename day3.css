@@ -1,4 +1,4 @@
 #red { color: red;}
 p.green.big { color: green;}
-p.green.bold { font-weight: bold; color: green;}
+p.green.bold { font-size: 25px; line-height: 30px;}
 div { height: 100; width: 100%;}
