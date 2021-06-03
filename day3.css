@@ -1,4 +1,12 @@
-#red { color: red;}
+p1 { color: red;}
+
 p.green.big { color: green;}
+
 p.green.bold { font-size: 25px; line-height: 30px;}
-div { height: 100; width: 100%;}
+
+# { 
+    height: 100px; 
+    width: 100%;    
+    background-color: firebrick;}
+
+.p4 { Google fonts: 'limelight',cursive;}
