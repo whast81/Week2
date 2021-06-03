@@ -1,12 +1,9 @@
-p1 { color: red;}
+p { color: red;}
 
 p.green.big { color: green;}
 
-p.green.bold { font-size: 25px; line-height: 30px;}
-
-# { 
-    height: 100px; 
-    width: 100%;    
-    background-color: firebrick;}
+p.green.bold { color:green; font-size: 25px; line-height: 30px; font-weight: bold;}
 
 .p4 { Google fonts: 'limelight',cursive;}
+
+div.box-1 { background-color: firebrick;}
